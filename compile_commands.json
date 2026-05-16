@@ -1,0 +1,58 @@
+[
+  {
+    "file": "src/Application.cpp",
+    "arguments": [
+      "/usr/bin/g++",
+      "src/Application.cpp",
+      "-Iinclude",
+      "-o",
+      "gra",
+      "-Wall",
+      "-std=c++17"
+    ],
+    "directory": "/home/jakub/Dokumenty/Editor",
+    "output": "gra"
+  },
+  {
+    "file": "src/main.cpp",
+    "arguments": [
+      "/usr/bin/g++",
+      "src/main.cpp",
+      "-Iinclude",
+      "-o",
+      "gra",
+      "-Wall",
+      "-std=c++17"
+    ],
+    "directory": "/home/jakub/Dokumenty/Editor",
+    "output": "gra"
+  },
+  {
+    "file": "src/TextBuffer.cpp",
+    "arguments": [
+      "/usr/bin/g++",
+      "src/TextBuffer.cpp",
+      "-Iinclude",
+      "-o",
+      "gra",
+      "-Wall",
+      "-std=c++17"
+    ],
+    "directory": "/home/jakub/Dokumenty/Editor",
+    "output": "gra"
+  },
+  {
+    "file": "src/TextEditor.cpp",
+    "arguments": [
+      "/usr/bin/g++",
+      "src/TextEditor.cpp",
+      "-Iinclude",
+      "-o",
+      "gra",
+      "-Wall",
+      "-std=c++17"
+    ],
+    "directory": "/home/jakub/Dokumenty/Editor",
+    "output": "gra"
+  }
+]
